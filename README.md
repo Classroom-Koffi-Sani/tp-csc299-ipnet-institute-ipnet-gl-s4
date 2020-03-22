@@ -21,7 +21,8 @@ Metadata: commands in this exercise: cd, mkdir, ls, mv, more, less, cat, tar.
 
 Metadata: The aim of this exercise is very simple: learn to move around with cd, look at file contents, create directories and move files around.
 
-### a. Clone the project on your PC
+### a. Clone the project on your PC
+
 
 Try to clone this project on your PC :
 
@@ -39,7 +40,7 @@ $ ls -l
 $ cd ..
 Etc.
 ```
-Take a screenshot of your command prompt and insert it in an issue in your repository entitled `1.a Directory list`.
+Take a screenshot of your command prompt and insert it in an issue in your repository entitled `1.b Directory list`.
 
 ### c. Which files contains the word "Magna" or "magna"
 Below are some commands that you can try find out which file is about "Magna" or "magna". What are the other structures about?
