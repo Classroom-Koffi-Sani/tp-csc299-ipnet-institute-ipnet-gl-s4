@@ -22,6 +22,7 @@ Metadata: commands in this exercise: cd, mkdir, ls, mv, more, less, cat, tar.
 Metadata: The aim of this exercise is very simple: learn to move around with cd, look at file contents, create directories and move files around.
 
 ### a. Clone the project on your PC
+
 Try to clone this project on your PC :
 
 ![Clone project on Github](assets/clone.png)
@@ -80,4 +81,4 @@ Search is triggered by pressing `/` and then writing a (start of) a keyword. Pre
 
 `/sort` and press "enter" (note, you need to give this command while in the man page, not from command prompt).
 
-Create an with the screenshot entitled `2.1 Opening the ls man page`.
+Create an issue with the screenshot entitled `2.1 Opening the ls man page`.
